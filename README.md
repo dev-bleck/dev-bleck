@@ -64,20 +64,20 @@
 </div>
 
 ## 📞 CONTACT
-<div style="display:flex; justify-content:center; align-items:center;">
+<div>
     <a href="https://www.linkedin.com/in/hyeon-bok-lee-801572327/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
     </a>
-    <a href="mailto:bleckshitup@gmail.com" style="display:inline-block;">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    <a href="mailto:bleckshitup@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
 </div>
 
 <hr style="margin-bottom:20px;">
 
-<div align="center">
-    <a href="https://solved.ac/bleckshitup" style="display: block; margin-bottom: 20px;">
+<div>
+    <a href="https://solved.ac/bleckshitup">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bleckshitup"> 
+        <img src="http://mazandi.herokuapp.com/api?handle=bleckshitup&theme=warm"/>
     </a>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-bleck&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Today&edge_flat=true">
 </div>
